@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankabp/Portfolio.git"
+  },
+  "author": "Priyanka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priyankabp/Portfolio/issues"
+  },
+  "homepage": "https://github.com/priyankabp/Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
